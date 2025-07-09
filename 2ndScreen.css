@@ -9,11 +9,11 @@ body {
   background-color: #ffffff;
   color: #000;
   min-width: 850px;
-  width: 1350px;
+  width: 100%;
 }
 
 .header {
-  background-color: #861b22;
+  background-color: #98242A;
   color: white;
   padding: 40px 20px;
   position: relative;
@@ -60,7 +60,7 @@ h2 {
   font-weight: 500;
   font-size: 28px;
   line-height: 1.6;
-  color: #ffffff;
+  color: #f1e4e2;
   margin-bottom: 16px;
 }
 
@@ -90,7 +90,7 @@ h2 {
   left: 0;
   width: 0;
   height: 0;
-  border-right: 42px solid #861b22;
+  border-right: 42px solid #98242A;
   border-top: 42px solid transparent;
 }
 
@@ -115,18 +115,18 @@ h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 600;
-  color: #861b22;
+  color: #98242A;
 }
 
 .bottom-text {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 600;
-  color: #000; 
+  color: #000;
 }
 
 .footer {
-  background-color: #861b22;
+  background-color: #98242A;
   color: white;
   padding: 110px 80px;
   font-weight: bold;
@@ -144,3 +144,4 @@ footer::after {
   border-right: 120px solid #ffffff;
   border-top: 120px solid transparent;
 }
+
