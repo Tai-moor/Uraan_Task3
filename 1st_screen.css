@@ -33,7 +33,7 @@ button {
   display: grid;
   height: auto;
   background-color: #f6f0eb;
-  width: 1350px;
+  width: 100%;
 }
 
 .header-logo {
