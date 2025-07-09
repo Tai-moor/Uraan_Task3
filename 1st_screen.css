@@ -80,7 +80,8 @@ button {
 .card-info {
   place-self: center;
   margin-left: 14px;
-  margin-top: -19rem;
+  position: relative;
+  bottom: 135px;
 }
 
 h1 {
